@@ -1,0 +1,61 @@
+body {
+    color:  #003399;
+    font-family: 12pt;
+    font-family: "Candara", Arial;
+}
+
+h2{
+    font-size:16pt;
+    padding-top: 20px;
+
+}
+
+h3{
+    font-size:14pt;
+}
+
+#wrapper{
+    margin: auto;
+    background-color: #ADD8E6;
+    width: 40em;
+    padding: 5px;
+}
+
+#header{
+    height: 75px;
+    border-bottom: dotted 2px;
+    border-color: #B2BCC6;
+}
+
+#header img{
+    height: 70px;   
+    float: left;
+    padding-right: 10px;
+
+
+}
+
+#nav{
+    padding-top: 20px;
+    float: left;
+    width: 16em;
+}
+
+#container{
+    width: 23em;
+    float:right;
+}
+
+#nav li{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
